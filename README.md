@@ -5,7 +5,7 @@ To use this, click the download as .zip button to start from a local computer, o
 
 The unzipped folder contains all of the files you need to compile a website in R Markdown. This should all work fine if you have the latest version of R and R-studio installed.
 
-## Steps for compiling on your local computer
+## Steps for compiling on your local computer  ss
 
 1. Make sure R and R-studio are installed
 3. Make sure the rmarkdown package is installed in R-studio. Open R-studio, click the packages tab in the lower left hand corner, click install packages, type in rmarkdown, make sure "install dependencies" is clicked on, then press install. Close R-studio.
