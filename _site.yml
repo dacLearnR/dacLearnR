@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Data Analysis Challange"
 navbar:
-  title: "MyLabJournal"
+  title: "DAC"
   left:
     - text: "Home"
       href: index.html
